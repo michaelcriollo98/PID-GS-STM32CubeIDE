@@ -1,0 +1,12 @@
+../Core/Src/math_matriz.c:5:6:multiplicar_matriz	88	static
+../Core/Src/math_matriz.c:22:6:sumar_matriz	72	static
+../Core/Src/math_matriz.c:38:6:mostrarMatriz	56	static
+../Core/Src/math_matriz.c:52:6:mostrarMatrizp	32	static
+../Core/Src/math_matriz.c:66:6:mostrarMatrizR3_int	40	static
+../Core/Src/math_matriz.c:79:6:mostrarMatrizR3	40	static
+../Core/Src/math_matriz.c:93:6:onesR3	40	static
+../Core/Src/math_matriz.c:103:6:onesR3f	40	static
+../Core/Src/math_matriz.c:114:6:zerosR3	40	static
+../Core/Src/math_matriz.c:124:6:zerosR3f	40	static
+../Core/Src/math_matriz.c:134:6:findminMatrizR3	56	static
+../Core/Src/math_matriz.c:156:6:prod_escalarMatrizR3	48	static

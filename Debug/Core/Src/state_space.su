@@ -1,0 +1,5 @@
+../Core/Src/state_space.c:8:6:SS_Init	16	static
+../Core/Src/state_space.c:31:6:xActual_Gx_Hu	96	static
+../Core/Src/state_space.c:50:7:y_Cx_Du	80	static
+../Core/Src/state_space.c:65:6:MemoriaDinamica_matriz_out	40	static
+../Core/Src/state_space.c:73:6:liberarMemoria_matriz_out	24	static

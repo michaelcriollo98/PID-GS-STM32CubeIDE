@@ -1,0 +1,6 @@
+../Core/Src/A_star.c:14:6:Astar_Init	80	static
+../Core/Src/A_star.c:78:6:Aestrella	168	static
+../Core/Src/A_star.c:221:6:reserve_memory_Astar	80	static
+../Core/Src/A_star.c:283:6:generate_ID	80	static
+../Core/Src/A_star.c:307:6:contador	72	dynamic
+../Core/Src/A_star.c:317:5:delimitar_coordenadas	56	static

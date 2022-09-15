@@ -1,0 +1,2 @@
+../Core/Src/random_numbers.c:7:7:randf	16	static
+../Core/Src/random_numbers.c:13:5:randi	24	static

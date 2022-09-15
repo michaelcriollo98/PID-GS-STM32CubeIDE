@@ -1,0 +1,14 @@
+../Core/Src/math_vector.c:7:6:sum_vector_escalar	32	static
+../Core/Src/math_vector.c:12:6:prod_vector_escalar	32	static
+../Core/Src/math_vector.c:18:7:sum_vector	24	static
+../Core/Src/math_vector.c:28:6:linspace	32	static
+../Core/Src/math_vector.c:35:6:generate_vector	32	static
+../Core/Src/math_vector.c:42:6:mostrar_vector	32	static
+../Core/Src/math_vector.c:50:6:mostrar_vector_d	32	static
+../Core/Src/math_vector.c:59:6:mostrar_vector_int	32	static
+../Core/Src/math_vector.c:69:5:find	48	static
+../Core/Src/math_vector.c:116:5:find_int	40	static
+../Core/Src/math_vector.c:130:7:min_v	24	static
+../Core/Src/math_vector.c:138:5:setdiff	80	dynamic
+../Core/Src/math_vector.c:163:6:remove_value_position	32	static
+../Core/Src/math_vector.c:174:5:setdiff_int	80	dynamic

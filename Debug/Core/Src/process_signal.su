@@ -1,0 +1,5 @@
+../Core/Src/process_signal.c:6:7:saturation	16	static
+../Core/Src/process_signal.c:14:7:normalizacion	24	static
+../Core/Src/process_signal.c:20:7:desnormalizacion	24	static
+../Core/Src/process_signal.c:26:7:fround	40	static
+../Core/Src/process_signal.c:39:7:limitar_altura	16	static

@@ -1,0 +1,2 @@
+../Core/Src/fgs_control.c:7:6:FGS_Init	64	static
+../Core/Src/fgs_control.c:27:6:FGS_control	64	static

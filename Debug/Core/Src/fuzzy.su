@@ -1,0 +1,11 @@
+../Core/Src/fuzzy.c:10:6:Fuzzy_Init	256	static
+../Core/Src/fuzzy.c:153:6:eval_fuzzy	152	dynamic
+../Core/Src/fuzzy.c:202:7:max	24	static
+../Core/Src/fuzzy.c:212:7:min	24	static
+../Core/Src/fuzzy.c:221:7:gaussmf	40	static
+../Core/Src/fuzzy.c:229:7:trimf	32	static
+../Core/Src/fuzzy.c:235:7:trapmf	48	static
+../Core/Src/fuzzy.c:242:5:find_index	32	static
+../Core/Src/fuzzy.c:252:6:Reglas_str2num	40	static
+../Core/Src/fuzzy.c:271:7:fuzz	32	static
+../Core/Src/fuzzy.c:284:7:defuzz	40	static
